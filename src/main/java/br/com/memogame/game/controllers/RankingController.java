@@ -1,9 +1,6 @@
 package br.com.memogame.game.controllers;
 
 import java.util.List;
-import java.util.Objects;
-import java.util.stream.Collectors;
-
 import br.com.memogame.game.models.Ranking;
 import br.com.memogame.game.models.Usuario;
 import br.com.memogame.game.repositories.UsuarioRepo;
